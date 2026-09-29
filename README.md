@@ -39,13 +39,13 @@ python3 --version
 Clone the repository using:
 
 ```bash
-git clone https://github.com/{github-username}/{repo-name}.git
+git clone https://github.com/shashwat26bce10115-droid/Number-Toolkit
 ```
 
 Then move into the project folder:
 
 ```bash
-cd {repo-name}
+cd Number-Toolkit
 ```
 
 Replace the username and repository name with the actual details of the GitHub repository.
